@@ -1,9 +1,5 @@
 ## Hi, I'm Zeryyern👋
 
- Here’s a complete and polished **"About Me"** template for you. You can leave it as is or tweak it as you like! 🚀  
-
----
-
 ## **Hi, I'm Zeryyern!** 👋  
 
 🔭 **Computer Science Student** at Universitas Sebelas Maret  
